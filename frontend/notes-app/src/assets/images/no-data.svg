@@ -1,0 +1,7 @@
+<svg width="200" height="200" viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+  <g fill="none" stroke="#7776B3" stroke-width="10">
+    <circle cx="100" cy="100" r="90"/>
+    <line x1="50" y1="50" x2="150" y2="150"/>
+  </g>
+  <text x="100" y="190" font-family="Arial" font-size="20" fill="#7776B3" text-anchor="middle">No Data</text>
+</svg>
